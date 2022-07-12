@@ -1,0 +1,47 @@
+.top{
+    font-size:30px;
+    padding:3px;
+
+}
+.twitter{
+    padding:20px 30px;
+    background-color: aqua;
+    display: block;
+    border-radius:9px ;
+    float:right;
+    margin-left: 1100px;
+}
+.twitter:hover{
+    background-color: aliceblue;
+}
+header{
+    background-color: rgb(172, 231, 201);
+    position: fixed;
+    top:0px;
+    width:100%;
+    display:flex;
+}
+.title{
+   border-bottom: 1px solid whitesmoke; 
+}
+
+.header{
+    padding-bottom: 10px;
+    padding-top:50px;
+    background-image:url(https://lh3.googleusercontent.com/pw/AM-JKLVS_XuKbfzrdFrSj_IOqDNbOiRP5jSvzHebumfU2Lj7ZE0um9vdKZdg7b-77-mL0VBYBp-t3oxb2EAkI5jk4JtfHCjZYrVTdwu6HQ74JNlXW6SAHOfkxlcIQbo8hOLO610_7O0FWTrolt1fRYYh8JIj=w1130-h1506-no?authuser=0);
+    background-size:cover;
+    text-align: center;
+    margin: 0 auto;
+}
+.ti{
+    font-size: 30px;
+    text-align:center;
+}
+.main-content1{
+    background-image:url(https://lh3.googleusercontent.com/pw/AM-JKLV01PyteFvXH_rL3LBSLEMcMR86FTHJV9IP1y0oPl8OE6nTyVwZCKsO_nHBjqOxWUt3SJuguobOBorlXWj4IAcnccH-jKn3wvtVgQPqCwRRDxRcY79FctIlMjFwE17343-otavU9U3x7qDuimQxMvBC=w1088-h1450-no?authuser=0);
+    height:1500px;
+    background-size: cover;
+}
+.main-content1 p{
+    color:yellow
+}
